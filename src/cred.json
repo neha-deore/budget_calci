@@ -1,0 +1,34 @@
+{
+  "cred": [
+    {
+      "id": 1,
+      "name": "A",
+      "email": "abc@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "name": "B",
+      "email": "B@gmail.com",
+      "password": "bde345"
+    },
+    {
+      "id": 4,
+      "name": "abc",
+      "email": "as@gmail.com",
+      "password": "$2a$10$2zblqHk0yBhRIDS9LKMhk.uUDL/wr/ghWZDGiGEdFqE62zDxeevmO"
+    },
+    {
+      "id": 5,
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "$2a$10$9y8L1o2HR3f62QTY.7jwBe6mxrEtR4hCmsi50kygWwualmGxG5.PO"
+    },
+    {
+      "name": "sectest",
+      "email": "test2@gmail.com",
+      "password": "$2a$10$FXUmx9Vl1f0e8UAzq/3uluoOLpNAj8SlEeoZrBCRWBL2sh7nXpOXW",
+      "id": 6
+    }
+  ]
+}
